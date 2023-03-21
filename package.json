@@ -1,6 +1,6 @@
 {
   "name": "joy-presenter",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Make Joy-Con to a powerful presentation clicker",
   "main": "main.js",
   "repository": {
