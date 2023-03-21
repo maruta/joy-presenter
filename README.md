@@ -6,15 +6,15 @@ Make Joy-Con to a powerful presentation clicker for PowerPoint.
 
 | JoyCon | Function |
 |--|--|
-| ⯅⯆⯇⯈ (XBYA)| [⇧][⇩][⇦][⇨]  (next/prev slide )|
-| ZL (ZR) | while pulled, gyro and laser pointer mode ([Ctrl]+[L]) is activated |
-| L (R) | Right Click |
-| Press Stick | Left Click |
-| Gyro | mouse cursor (while ZL(ZR) is pulled)|
-| - (+) | [+]  (Zoom in)|
+| ⯅⯆⯇⯈ (XBYA)| <kbd>↑</kbd><kbd>↓</kbd><kbd>←</kbd><kbd>→</kbd>  (next/prev. slide )|
+| ZL (ZR) | while pulled, gyro and laser pointer mode (<kbd>Ctrl</kbd>+<kbd>L</kbd>) is activated |
+| L (R) | right click |
+| press stick | left click |
+| gyro | mouse cursor (while ZL(ZR) is pulled)|
+| - (+) | <kbd>+</kbd>  (Zoom in)|
 | analog stick | mouse scroll |
-| SL (SR) | [Alt] + [Tab] (Change Application) |
-| SR (SL) | [G] (All slides)  |
-| Capture / Home | [Enter] |
+| SL (SR) | <kbd>Alt</kbd> + <kbd>Tab</kbd> (change application) |
+| SR (SL) | <kbd>G</kbd> (all slides)  |
+| Capture / Home | <kbd>Enter</kbd> |
 
 
