@@ -17,4 +17,11 @@ Make Joy-Con to a powerful presentation clicker for PowerPoint.
 | SR (SL) | <kbd>G</kbd> (all slides)  |
 | Capture / Home | <kbd>Enter</kbd> |
 
+## Note
 
+Download and run the portable binary from [release](https://github.com/maruta/joy-presenter/releases) page.   
+The Windows version has been tested, but other environments have not been tested because the author does not have them.
+
+## License
+
+Joy Presenter is open-sourced software licensed under Apache-2.0 license.
